@@ -19,7 +19,7 @@ Stroll is a Flutter-based mobile application designed to provide a seamless user
  <img width="1440" alt="Screenshot 2025-01-13 at 19 25 38" src="https://github.com/user-attachments/assets/57a1d81a-8b3c-4e64-81eb-0989a621e49a" />
 
 
-#Technology Used
+# Technology Used
 ```bash
 
 -Flutter
